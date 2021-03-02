@@ -1,7 +1,5 @@
 # Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation
 
-Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation
-
 Steps:
 
 Process the public dataset CAVE:
