@@ -1,1 +1,0 @@
-3DDnCNN model parameters for the CAVE and Harvard datasets.
