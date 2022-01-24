@@ -1,1 +1,1 @@
-denoised results by 3DDnCNN saved here
+Final results saved here.
