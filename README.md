@@ -22,10 +22,10 @@ For any questions, feel free to email me at xiuheng.wang@mail.nwpu.edu.cn.
 
 If you find this code helpful, please kindly cite:
 
-@article{wang2021hyperspectral,
-  title={Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation},
-  author={Wang, Xiuheng and Chen, Jie and Wei, Qi and Richard, C{\'e}dric},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2021},
-  publisher={IEEE}
-}
+    @article{wang2021hyperspectral,
+      title={Hyperspectral Image Super-Resolution via Deep Prior Regularization with Parameter Estimation},
+      author={Wang, Xiuheng and Chen, Jie and Wei, Qi and Richard, C{\'e}dric},
+      journal={IEEE Transactions on Circuits and Systems for Video Technology},
+      year={2021},
+      publisher={IEEE}
+    }
